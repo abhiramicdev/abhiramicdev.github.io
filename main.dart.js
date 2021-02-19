@@ -52325,7 +52325,7 @@ U.BZ.prototype={}
 X.o_.prototype={}
 F.Ag.prototype={
 O:function(a,b){var s=X.a8k(null,C.kb,X.a8v())
-return new S.r8(P.aE(["/",new F.Qz(),"/cv",new F.QA()],t.bi,t.gd),"/","Flutter Demo",s,!1,null)}}
+return new S.r8(P.aE(["/",new F.Qz(),"/cv",new F.QA()],t.bi,t.gd),"/","abhiramic.dev",s,!1,null)}}
 F.Qz.prototype={
 $1:function(a){return new V.kD(null)},
 $S:319}
